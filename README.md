@@ -2,6 +2,11 @@
  Timeworks POS auto-emailer
 
 
+## intallation
+download and unzip the file "timework_auto_emailer_v12.7z" to your computer
+
+before you run the .exe please ensure to setup SMTP email configuration 
+
 ## SMTP Email  configuration
 
 1- Open the file  "./www/app/Config/email.php" and change the email SMTP email configuration
